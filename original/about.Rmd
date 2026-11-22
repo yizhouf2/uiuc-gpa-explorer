@@ -1,0 +1,11 @@
+## Author
+- **Name:** Yizhou Fang
+
+## Purpose
+The purpose of this project is to build an interactive tool that allows users to explore grade distributions across UIUC courses from 2010 to 2025. The project helps identify patterns in grading across departments, course levels, and instructors. Also, the project helps students make informed course decisions by visualizing the historical grade distributions of courses and instructors.
+
+## Data
+The UIUC GPA Dataset (from wadefagen/datasets) shows section grade distributions for UIUC courses across 2010–2025. The dataset includes year, term, subject, course number, instructor, and counts of grades (A+, A, A-, …, F, W), showing grade distributions over time, across courses, and across instructors.
+
+## References
+Fagen-Ulmschneider, W. (n.d.). UIUC GPA Dataset. GitHub repository. Retrieved from https://raw.githubusercontent.com/wadefagen/datasets/refs/heads/main/gpa/uiuc-gpa-dataset.csv
